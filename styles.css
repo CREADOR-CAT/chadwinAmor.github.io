@@ -33,6 +33,13 @@ button {
     border-radius: 10px; /* Esquinas redondeadas */
 }
 
+#conder {
+    font-size: 10px;
+    color: red;
+    text-aling: left;
+    font-family: Arial;
+}
+
 #noBtn {
     padding: 10px 20px;
     font-size: 16px;
